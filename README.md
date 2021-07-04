@@ -2,10 +2,10 @@
 
 [Website Link](https://gurokeretcha.github.io/myportfolio/) 
 
-This is my portfolio where you can see my information about:
+This is my portfolio where you can see information about:
 
 - My Resume
 - My Projects
 - My Blogs
-- Contact 
+- My Contact 
 
